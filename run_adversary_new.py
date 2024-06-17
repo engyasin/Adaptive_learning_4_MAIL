@@ -317,6 +317,7 @@ def main(num_of_exp_eps=32,test_mode=0):
     th.save(shaped_reward_net.state_dict(), 'ens_rewards_{}_test_{}_{}'.format(num_of_exp_eps,test_mode,env_name))
     del venv
     gc.collect()
+
 if __name__ == '__main__':
 
     for ds_size in [25,45]:#10

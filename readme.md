@@ -60,7 +60,7 @@ Tests are done on three environments. The following videos shows the learned pol
 
 
 
-## Help
+## Contribute
 
 For discussing of issues and problems running the code, please consider creating an issue
 

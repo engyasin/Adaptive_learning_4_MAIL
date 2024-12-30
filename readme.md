@@ -23,8 +23,6 @@ To appear in PAAMS24.
 
 PDF of the paper is [avaliable here](paper.pdf)
 
-*Will change later* 
-
 
 ```bibtex
 @inproceedings{yousif2024adaptive,

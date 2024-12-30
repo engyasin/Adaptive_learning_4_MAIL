@@ -27,15 +27,15 @@ PDF of the paper is [avaliable here](paper.pdf)
 
 
 ```bibtex
-@InProceedings{yousif2024_2,
-    author="Yousif, Yasin and Müller, Jörg",
-    title="Adaptive Learning of Centralized and Decentralized Rewards in Multi-agent Imitation Learning",
-    booktitle="Advances in Practical Applications of Agents, Multi-Agent Systems.",
-    year="2024",
-    publisher="Springer Nature Switzerland",
-    address="Cham",
-    note="To appear"
+@inproceedings{yousif2024adaptive,
+  title={Adaptive Learning of Centralized and Decentralized Rewards in Multi-agent Imitation Learning},
+  author={Yousif, Yasin M and M{\"u}ller, J{\"o}rg P},
+  booktitle={International Conference on Practical Applications of Agents and Multi-Agent Systems},
+  pages={264--276},
+  year={2024},
+  organization={Springer}
 }
+
 ```
 
 
